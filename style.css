@@ -10,6 +10,7 @@
   box-sizing: border-box;
   font-family: 'San Francisco';
   list-style-type: none;
+  color: white;
 }
 :root {
   display: flex;
